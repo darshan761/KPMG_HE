@@ -1,4 +1,4 @@
-# Designing a sustainable future using ICTs  - DASH - Blockchain for a better life
+# The World After Covid-19  - DASH 
 
 * DASH empowers citizens’ mindset and helps them to be their best version by providing opportunities over the platform in three main areas - health & mental wellness, community connect & collaborative learning.
 * It has an AI-powered conversational digital ally named “**Aisha**” that understands platform users’ behaviors, traits and promotes them with tips & engaging notifications for better well-being.
